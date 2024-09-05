@@ -1,0 +1,15 @@
+.containerHeader{
+    h1 {
+        text-align: center;
+        font-size: 4em;
+        color: red;
+    }
+    ul {
+        display: flex;
+
+        li {
+            list-style: none;
+            margin-right: 20px;
+        }
+    }
+}
